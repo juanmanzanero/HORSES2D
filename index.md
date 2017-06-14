@@ -1,3 +1,10 @@
+---
+layout: default
+title: HORSES2D
+---
+
+
+
 # HORSES: a High Order Spectral Element Solver
 
 ![image](https://dl.dropboxusercontent.com/s/kj8zqel72zyolgv/Logo1.png?dl=0)
