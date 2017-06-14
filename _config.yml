@@ -1,1 +1,18 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        HORSES2D
+tagline:      A two dimensional high order spectral element solver for the Navier-Stokes equations
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Juan Manzanero
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
