@@ -19,6 +19,8 @@ makes DG methods suitable to solve partial differential equations written as con
 
 The code has been developed in the Applied Mathematics Department of the Aerospace School (Madrid Technical University). 
 
+{:toc}
+
 ## Technical information
 
 ### Operating system
