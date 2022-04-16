@@ -2,6 +2,7 @@
 
 ![image](https://dl.dropboxusercontent.com/s/kj8zqel72zyolgv/Logo1.png?dl=0)
 
+\*\*\* THIS SOFTWARE IS NO LONGER MAINTAINED \*\*\*
 
 ***This is a two dimensional discontinuous Galerkin spectral element method solver for Navier-Stokes equations.***
 
